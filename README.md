@@ -4,4 +4,4 @@
 
 This is a collection of notes on topics in computational physics, which I hope to turn into a full course.
 
-- Random Process and Fractal
+- [Random Process and Fractal](https://nbviewer.org/github/slxuphys/comp_phy/blob/master/random_fractal.ipynb)
